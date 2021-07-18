@@ -1,16 +1,2 @@
-info:
-  author: priyanka
-  version: 1.0 
-    
-management:
-  endpoints:
-    web:
-      exposure:
-        include:
-        - "*"
-        
-  endpoint:
-    health:
-      show-details: always
-    shutdown:
-     enabled: true
+Custom:
+  message:Welcome to India
